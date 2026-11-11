@@ -71643,5 +71643,12 @@
     "author": "Lennart Friebel",
     "description": "Personal relationship tracker and social CRM to track contact cadence, birthdays, and touchpoints with friends and family. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaloalo/obsidian_relationship_radar"
+  },
+  {
+    "id": "synology-quicksync-plus",
+    "name": "Synology QuickSync Plus",
+    "author": "ifascloud",
+    "description": "通过 QuickConnect 与 File Station 接口把库同步到群晖 NAS，手机电脑通用，冲突可收敛。",
+    "repo": "ifascloud/obsidian-synology-quicksync-plus"
   }
 ]
